@@ -23,7 +23,7 @@ Suggests:
     testthatsomemore
 Remotes: kirillseva/cacher,
     robertzk/testthatsomemore,
-    avantcredit/AWS.tools
+    armstrtw/AWS.tools
 License: MIT
 LazyData: true
 Roxygen: list(wrap = FALSE)
